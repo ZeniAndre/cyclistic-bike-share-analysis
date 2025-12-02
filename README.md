@@ -98,7 +98,7 @@ cyclistic-bike-share-analysis/
 
 1. Clone the repo:
 ```
-    git clone https://github.com/ZeniAndre/cyclistic-bike-share-analysis.git
+git clone https://github.com/ZeniAndre/cyclistic-bike-share-analysis.git
 ```
 
 2. Install R packages:
