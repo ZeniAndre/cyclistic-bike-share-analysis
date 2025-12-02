@@ -24,6 +24,8 @@ Member trips grew only +10.7%
 
 Casual riders increasingly used bikes for longer, leisure-oriented trips
 
+**These insights indicate a substantial untapped conversion opportunity, enabling data-driven decisions around pricing, marketing, and product design.**
+
 ### Key Insights
 #### 1. Growth Dynamics
 
@@ -69,6 +71,35 @@ Kaggle (interactive notebook + dataset hosting)
 
 This repo focuses on the analytical R code and documentation.
 
+## Repository Structure
 
+📁 cyclistic-bike-share-analysis/
+│
+├── cyclistic_analysis.R               # Cleaned, structured R script
+├── cyclistic_analysis_datatable.R     # Optional optimized version using data.table
+├── README.md                          # This file
+│
+├── /visuals                           # Exported charts (optional)
+├── /data                              # Cleaned data (if allowed to share)
+└── /docs                              # Additional documentation
 
-These insights indicate a substantial untapped conversion opportunity, enabling data-driven decisions around pricing, marketing, and product design.
+### How to Reproduce the Analysis
+
+1. Clone the repo
+
+2. Install R packages:
+install.packages(c("tidyverse", "lubridate"))
+
+3. Run:
+source("cyclistic_analysis.R")
+
+4. Outputs appear in the Viewer and console.
+
+## Related Links (Portfolio Ecosystem)
+### Full interactive analysis (Kaggle Notebook): https://www.kaggle.com/code/andrezeni/cyclistic-bike-share-q1-2019-2020
+
+### Executive dashboard (Tableau): [Tableau]https://public.tableau.com/app/profile/andre.zeni/vizzes
+
+### Full project article (Live Portfolio): [Andre Zeni](https://andrezeni.blogspot.com/)
+
+### LinkedIn Profile: https://www.linkedin.com/in/andre-zeni-fs1991/
