@@ -1,7 +1,7 @@
 # **Cyclistic Bike-Share Business Case**
 Converting Casual Riders into Annual Members
 ```
-                        Author: Andre Zeni — Business Data Analyst
+                                  Author: Andre Zeni — Business Data Analyst
 ```
 ## Project Summary
 
