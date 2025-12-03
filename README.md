@@ -88,7 +88,7 @@ cyclistic-bike-share-analysis/
 │   ├── ride_distribution.png
 │
 ├── docs/
-│   ├── business_case_summary.pdf
+    ├── business_case_summary.pdf
 ```
 
 ## **Portfolio Ecosystem :**
