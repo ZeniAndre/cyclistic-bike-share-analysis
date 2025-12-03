@@ -89,31 +89,11 @@ cyclistic-bike-share-analysis/
 │
 ├── docs/
 │   ├── business_case_summary.pdf
-│
-└── data/
-    ├── cleaned_data_sample.csv
-```
-
-### How to Reproduce the Analysis
-
-1. Clone the repo:
-```
-git clone https://github.com/ZeniAndre/cyclistic-bike-share-analysis.git
-```
-
-2. Install R packages:
-```
-install.packages(c("tidyverse", "lubridate"))
-```
-
-3. Run the main script:
-```
-source("cyclistic_analysis.R")
 ```
 
 ## **Portfolio Ecosystem :**
 
-#### Full interactive analysis (Kaggle Notebook): 
+#### Full interactive analysis (Kaggle Notebook): *The analysis can be executed on Kaggle.*
 https://www.kaggle.com/code/andrezeni/cyclistic-bike-share-q1-2019-2020
 
 #### Executive dashboard (Tableau): 
